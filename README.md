@@ -2,6 +2,8 @@
 
 Clavirum is a powerful and lightweight automatic keystroke generator built with Python. Designed for efficiency and versatility, it allows users to automate text entry with precision control across multiple languages.
 
+This was generated with the help of AI
+
 ## ✨ Features
 
 * **Automatic Keystroke Generation:** Mimics real keyboard input to type any text automatically into your target application.
@@ -43,7 +45,11 @@ To launch the application, run the following command in your terminal:
 Clavirum currently supports 7 languages, including:
 1. English
 2. Turkish
-3. *(Add the other 5 supported languages here)*
+3. Russian
+4. Spanish
+5. Italy
+6. German
+7. French
 
 ## 🤝 Contributing
 
