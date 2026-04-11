@@ -47,7 +47,7 @@ Clavirum currently supports 7 languages, including:
 2. Turkish
 3. Russian
 4. Spanish
-5. Italy
+5. Italian
 6. German
 7. French
 
